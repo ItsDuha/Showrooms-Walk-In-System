@@ -1,3 +1,4 @@
+![Showrooms Walk-In System Banner](test-banner.png)
 # Showrooms Walk-In System
 
 A centralized web-based platform developed as a group project to manage showroom visitor check-ins, salesperson follow-ups, staff workloads, and showroom performance.
