@@ -24,7 +24,7 @@ A centralized web-based platform developed as a group project to manage showroom
 
 ### Visitor 
 
-https://github.com/user-attachments/assets/5c1729b7-8a9d-4262-b358-35472b549d14
+https://github.com/user-attachments/assets/57e3893a-d9ce-418c-a12b-c846fd6495c5
 
 ### Admin Dashboard
 
