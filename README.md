@@ -4,47 +4,21 @@ A centralized web-based platform developed as a group project to manage showroom
 
 ## Technologies Used
 
-## Technologies Used
-
 ### Backend
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="26" alt="ASP.NET Core"></td>
-    <td>ASP.NET Core MVC</td>
-    <td><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="26" alt="C#"></td>
-    <td>C#</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="26" alt="SQL Server"></td>
-    <td>Microsoft SQL Server</td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="26" alt="Entity Framework Core"></td>
-    <td>Entity Framework Core</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="26" alt=".NET"></td>
-    <td>BCrypt.Net</td>
-    <td><img src="https://cdn.simpleicons.org/groq" width="26" alt="Groq"></td>
-    <td>Groq API</td>
-  </tr>
-</table>
+- <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="22" height="22" align="center" alt=".NET" /> ASP.NET Core MVC
+- <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="22" height="22" align="center" alt="C#" /> C#
+- <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="22" height="22" align="center" alt="Microsoft SQL Server" /> Microsoft SQL Server
+- Entity Framework Core (Database First)
+- BCrypt.Net (Password Hashing)
+- <img src="https://cdn.simpleicons.org/groq" width="22" height="22" align="center" alt="Groq" /> Groq API
 
 ### Frontend
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="26" alt="HTML5"></td>
-    <td>HTML5</td>
-    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="26" alt="CSS3"></td>
-    <td>CSS3</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="26" alt="JavaScript"></td>
-    <td>JavaScript</td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="26" alt="Bootstrap"></td>
-    <td>Bootstrap</td>
-  </tr>
-</table>
+- <img src="https://skillicons.dev/icons?i=html&theme=dark" width="22" height="22" align="center" alt="HTML5" /> HTML5
+- <img src="https://skillicons.dev/icons?i=css&theme=dark" width="22" height="22" align="center" alt="CSS3" /> CSS3
+- <img src="https://skillicons.dev/icons?i=js&theme=dark" width="22" height="22" align="center" alt="JavaScript" /> JavaScript
+- <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="22" height="22" align="center" alt="Bootstrap" /> Bootstrap
 
 ## Video Walkthroughs
 
