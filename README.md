@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/fa63a6c4-c8a1-4efb-b57e-67bb2c3206dd
 - Soft-delete and restore functionality
 - Salesperson workload monitoring
 - AI assistant for operational insights
-- Marketing page design in Figma
+- Marketing page
 
 ## My Contributions
 
