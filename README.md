@@ -4,21 +4,13 @@ A centralized web-based platform developed as a group project to manage showroom
 
 ## Technologies Used
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,figma&theme=dark" height="38" alt="ASP.NET Core, C#, HTML5, CSS3, JavaScript, Bootstrap and Figma" />
+</p>
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-526D82?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-6B9080?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-607D8B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-788A9A?style=flat-square)
-![BCrypt.Net](https://img.shields.io/badge/BCrypt.Net-7A918D?style=flat-square)
-![Groq API](https://img.shields.io/badge/Groq_API-6B9080?style=flat-square)
+**Backend:** ASP.NET Core MVC, C#, Entity Framework Core (Database First), Microsoft SQL Server, BCrypt.Net, Groq API.
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-AD7B67?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6482A1?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-82749A?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B6A36A?style=flat-square&logo=javascript&logoColor=white)
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap.
 
 ## Video Walkthroughs
 
@@ -59,6 +51,6 @@ https://github.com/user-attachments/assets/fa63a6c4-c8a1-4efb-b57e-67bb2c3206dd
 
 ## Note
 
-This repository contains project documentation and demonstration videos only. Source code is not included.
+This repository contains project documentation and demonstration videos only; source code is not included.
 
 This project was developed collaboratively as a group project.
