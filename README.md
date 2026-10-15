@@ -4,13 +4,19 @@ A centralized web-based platform developed as a group project to manage showroom
 
 ## Technologies Used
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap&theme=dark" height="38" alt="ASP.NET Core, C#, HTML5, CSS3, JavaScript, Bootstrap" />
-</p>
+### Backend
+- ASP.NET Core MVC
+- C#
+- Microsoft SQL Server
+- Entity Framework Core (Database First)
+- BCrypt.Net (Password Hashing)
+- Groq API
 
-**Backend:** ASP.NET Core MVC, C#, Microsoft SQL Server, Entity Framework Core (Database First), BCrypt.Net, Groq API.
-
-**Frontend:** HTML5, CSS3, Bootstrap, JavaScript.
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
 
 ## Video Walkthroughs
 
