@@ -4,13 +4,47 @@ A centralized web-based platform developed as a group project to manage showroom
 
 ## Technologies Used
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,figma&theme=dark" height="38" alt="ASP.NET Core, C#, HTML5, CSS3, JavaScript, Bootstrap and Figma" />
-</p>
+## Technologies Used
 
-**Backend:** ASP.NET Core MVC, C#, Entity Framework Core (Database First), Microsoft SQL Server, BCrypt.Net, Groq API.
+### Backend
 
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap.
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="26" alt="ASP.NET Core"></td>
+    <td>ASP.NET Core MVC</td>
+    <td><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="26" alt="C#"></td>
+    <td>C#</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="26" alt="SQL Server"></td>
+    <td>Microsoft SQL Server</td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="26" alt="Entity Framework Core"></td>
+    <td>Entity Framework Core</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="26" alt=".NET"></td>
+    <td>BCrypt.Net</td>
+    <td><img src="https://cdn.simpleicons.org/groq" width="26" alt="Groq"></td>
+    <td>Groq API</td>
+  </tr>
+</table>
+
+### Frontend
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="26" alt="HTML5"></td>
+    <td>HTML5</td>
+    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="26" alt="CSS3"></td>
+    <td>CSS3</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="26" alt="JavaScript"></td>
+    <td>JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="26" alt="Bootstrap"></td>
+    <td>Bootstrap</td>
+  </tr>
+</table>
 
 ## Video Walkthroughs
 
